@@ -3,7 +3,7 @@
 > **Note: This is only for Educational Purpose**
 
 ## Software Used
-**This project requires Python 3.6 and the following Python libraries installed:
+**This project requires Python 3.6 and the following Python libraries installed:**
 
 * [**NumPy**](https://numpy.org/)
 * [**Pandas**](https://pandas.pydata.org/)
