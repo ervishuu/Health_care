@@ -5,9 +5,9 @@
 ## Software Used
 **This project requires Python 3.6 and the following Python libraries installed:
 
-* **NumPy**
-* **Pandas
-* **matplotlib
-* **scikit-learn
-* **seaborn
+* [**NumPy**](https://numpy.org/)
+* [**Pandas**](https://pandas.pydata.org/)
+* [**matplotlib**](https://matplotlib.org/)
+* [**scikit-learn**](https://scikit-learn.org/stable/)
+* [**seaborn**](https://seaborn.pydata.org/index.html)
 
